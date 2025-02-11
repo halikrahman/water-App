@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">water</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="go_to_dashboard">Go to dashboard</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="User_Login">Login</string>
+    <string name="welcome_to_sdg_6_app">Welcome to SDG 6 App</string>
 </resources>
