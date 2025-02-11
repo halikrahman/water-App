@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">water</string>
+    <string name="support_sdg_6_clean_water_and_sanitation">Support SDG 6: Clean Water and Sanitation</string>
+    <string name="your_donation_helps_provide_clean_water_and_better_sanitation_to_communities_in_need">Your donation helps provide clean water and better sanitation to communities in need.</string>
+    <string name="enter_donation_amount">Enter donation amount ($)</string>
+    <string name="select_payment_method">Select Payment Method:</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="paypal">PayPal</string>
+    <string name="google_pay">Google Pay</string>
+    <string name="donate_now">Donate Now</string>
+    <string name="water_conservation_tips">Water Conservation Tips</string>
+    <string name="water_icon">Water Icon</string>
+    <string name="turn_off_the_tap_while_brushing_your_teeth">Turn off the tap while brushing your teeth.</string>
+    <string name="water_saving_icon">Water Saving Icon</string>
+    <string name="use_a_bucket_instead_of_a_hose_to_wash_your_car">Use a bucket instead of a hose to wash your car.</string>
+    <string name="save_water_icon">Save Water Icon</string>
+    <string name="fix_leaking_taps_and_pipes_to_avoid_water_waste">Fix leaking taps and pipes to avoid water waste.</string>
+    <string name="save_water_even_when_offline_follow_these_tips_to_make_a_difference">Save water even when offline! Follow these tips to make a difference.</string>
+    <string name="back_to_donation">Back To Donation</string>
+    <string name="go_to_offlinetips">Go To OfflineTips</string>
 </resources>
