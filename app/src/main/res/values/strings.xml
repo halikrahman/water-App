@@ -18,4 +18,20 @@
     <string name="save_water_even_when_offline_follow_these_tips_to_make_a_difference">Save water even when offline! Follow these tips to make a difference.</string>
     <string name="back_to_donation">Back To Donation</string>
     <string name="go_to_offlinetips">Go To OfflineTips</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="go_to_dashboard">Go to dashboard</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="User_Login">Login</string>
+    <string name="welcome_to_sdg_6_app">Welcome to SDG 6 App</string>
+    <string name="water_conservation_stats">Water Conservation Stats</string>
+    <string name="water_saved_500_liters_n_reports_resolved_15">💧 Water Saved: 500 Liters\n🌍 Reports Resolved: 15</string>
+    <string name="report_water_issue">🚨 Report Water Issue</string>
+    <string name="water_conservation_tips">💡 Water Conservation Tips</string>
+    <string name="check_water_quality">🔍 Check Water Quality</string>
+    <string name="back_to_home">⬅ Back to Home</string>
+    <string name="openDashboard">android.intent.action.VIEW</string>
+    <string name="openHome">android.intent.action.VIEW</string>
 </resources>
