@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Water</string>
+    <string name="sdg_6_clean_water_and_sanitation">SDG 6: Clean Water and Sanitation</string>
+    <string name="ensuring_availability_and_sustainable_management_of_water_and_sanitation_for_all">Ensuring availability and sustainable management of water and sanitation for all.</string>
+    <string name="go_to_water_usage">Go to Water Usage</string>
+    <string name="go_to_reports">Go to Reports</string>
+    <string name="sdg_6_logo">SDG 6 Logo</string>
+    <string name="sdg_6_app">SDG 6 App</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="go_to_splashscreen">Go_To_SplashScreen</string>
+    <string name="Go_to_splashscreen">Go_To_SplashScreen</string>
+    <string name="GO_to_splashscreen">Go to splashscreen</string>
+    <string name="back_to_screen">Back To Screen</string>
+    <string name="back_to_home_screen">Back to Home screen</string>
+    <string name="back_to_splash_screen">Back To Splash Screen</string>
+</resources>

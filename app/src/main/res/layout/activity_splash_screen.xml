@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:background="@drawable/tha2">
+
+    <!-- App Logo -->
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/tha"
+        android:contentDescription="@string/sdg_6_logo" />
+
+    <!-- App Name -->
+    <TextView
+        android:id="@+id/tvAppName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="@string/sdg_6_app"
+        android:textColor="@color/black"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+    <!-- Loading Indicator -->
+    <Button
+        android:id="@+id/btnReports"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:onClick="BackToHomeScreen"
+        android:text="@string/go_to_home"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+</LinearLayout>
