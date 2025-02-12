@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">waterapp</string>
+    <string name="water_usage_history">Water Usage History</string>
+    <string name="save_record">Save Record</string>
+    <string name="e_g_15">e.g., 15</string>
+    <string name="enter_water_usage_liters">Enter Water Usage (liters):</string>
+    <string name="select_date">Select Date:</string>
+    <string name="daily_water_consumption">Daily Water Consumption</string>
+    <string name="sdg_6_reports">SDG 6 Reports</string>
+    <string name="add_new_report">Add New Report</string>
+    <string name="SDG_6_reports">SDG 6 Reports</string>
+    <string name="SDg_6_reports">SDG 6 Reports</string>
+    <string name="reports">Reports</string>
+    <string name="Add_new_report">Add New Report</string>
+    <string name="Sdg_6_reports">SDG 6 Reports</string>
+    <string name="select_report_date">Select Report Date</string>
+    <string name="select_category">Select Category</string>
+    <string name="Reports">Reports</string>
+    <string name="view_report">View Report</string>
+    <string name="go_to_reports">Go to Reports</string>
+    <string name="back_to_water_usage">Back to Water Usage</string>
+    <string name="back_to_reports">back to Reports</string>
+    <string name="go">Go</string>
+</resources>
