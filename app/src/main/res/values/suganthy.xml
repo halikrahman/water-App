@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CleanWater</string>
+    <string name="about_us">About Us</string>
+    <string name="settings">⚙️ Settings</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="Appsettings">⚙️ Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="Enablesettings">⚙️ Settings</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="Moreinfo">About Us</string>
+    <string name="sdg_6_clean_water_app">SDG 6 - Clean Water App</string>
+    <string name="our_mission_is_to_promote_access_to_clean_water_and_sanitation_for_all_supporting_sustainable_development_goal_6_sdg_6">Our mission is to promote access to clean water and sanitation for all, supporting Sustainable Development Goal 6 (SDG 6).</string>
+    <string name="developed_by">👨‍💻 Developed By</string>
+    <string name="your_name">• Your Name</string>
+    <string name="team_member_2_if_any">• Team Member 2 (if any)</string>
+    <string name="team_member_3_if_any">• Team Member 3 (if any)</string>
+    <string name="email_support_sdg6app_com">Email: support@sdg6app.com</string>
+    <string name="website_www_sdg6app_com">Website: www.sdg6app.com</string>
+    <string name="back_to_settings">Back to Settings</string>
+    <string name="nithya">Nithya</string>
+    <string name="nitharshana">Nitharshana</string>
+    <string name="shana">Shana</string>
+    <string name="rahman">Rahman</string>
+    <string name="App_settings">Settings</string>
+    <string name="Notification">Enable Notifications</string>
+    <string name="select_water_saving_mode">Select Water-Saving Mode:</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="Settings">Settings</string>
+    <string name="set_daily_water_usage_limit_liters">Set Daily Water Usage Limit (liters):</string>
+    <string name="_50_liters">50 Liters</string>
+    <string name="preferred_water_source">Preferred Water Source:</string>
+    <string name="rainwater_harvesting">Rainwater Harvesting</string>
+    <string name="groundwater">Groundwater</string>
+    <string name="tap_water">Tap Water</string>
+    <string name="enable_daily_water_reminders">Enable Daily Water Reminders:</string>
+    <string name="Save_settings">Save Settings</string>
+    <string name="enable_reminders">Enable Reminders</string>
+    <string name="About_us">About us</string>
+</resources>
