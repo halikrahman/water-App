@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Water</string>
+    <string name="rainwater_harvesting_guide">Rainwater Harvesting Guide</string>
+    <string name="steps_to_harvest_rainwater">Steps to Harvest Rainwater:</string>
+    <string name="_1_collect_rainwater_from_rooftops_using_gutters_n2_filter_the_collected_water_to_remove_debris_n3_store_the_water_in_tanks_or_underground_reservoirs_n4_use_harvested_rainwater_for_irrigation_cleaning_or_drinking_after_purification">1. Collect rainwater from rooftops using gutters.\n2. Filter the collected water to remove debris.\n3. Store the water in tanks or underground reservoirs.\n4. Use harvested rainwater for irrigation, cleaning, or drinking after purification.</string>
+    <string name="learn_more">Learn More</string>
+    <string name="we_value_your_feedback_please_share_your_thoughts_below">We value your feedback. Please share your thoughts below.</string>
+    <string name="write_your_feedback_here">Write your feedback here...</string>
+    <string name="submit_feedback">Submit Feedback</string>
+    <string name="feedback">Feedback</string>
+    <string name="Write_your_feedback_here">Write your feedback here...</string>
+    <string name="Submit">Submit</string>
+    <string name="Feedback_form">Feedback Form</string>
+    <string name="go_to_feedback">Go to Feedback</string>
+    <string name="go_to_rainwater_harvesting">Go to Rainwater Harvesting</string>
+    <string name="go_to_rainwater_harvesting_guide">Go to Rainwater Harvesting Guide</string>
+</resources>
